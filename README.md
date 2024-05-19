@@ -14,7 +14,7 @@
 
 ## インストール方法
 
-1. [Releaseページ](https://github.com/yourusername/remove-youtube-shorts-tab/releases)から最新版をダウンロードして、適当な場所に解凍します。
+1. [Releaseページ](https://github.com/RateteApple/YT-Sidebar-Shorts-Hider/releases/latest)から最新版をダウンロードして、適当な場所に解凍します。
 2. ブラウザの拡張機能管理ページを開きます。
     - Chromeの場合: `chrome://extensions/`
     - Firefoxの場合: `about:addons`
